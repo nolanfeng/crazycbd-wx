@@ -1,4 +1,4 @@
-# 我是引用了国内前辈的code来学习leancloud构建微信服务端；无比感激，不过我是托管在github上，木有在云代码。
+# 我是引用了国内前辈的code来学习leancloud构建微信服务端；无比感激！！
 # 使用云代码接入微信的示例
 
 使用 [LeanCloud](http://leancloud.cn) [云代码](https://leancloud.cn/docs/cloud_code_guide.html) 功能可以方便的拥有一个属于你自己的服务端。可以将本应用部署在云代码上，简单快速的接入微信。
